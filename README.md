@@ -1,5 +1,1 @@
-# starter
-Basic Starter Repository
-
-
-Scooby Doo!
+# Scooby Doo!
