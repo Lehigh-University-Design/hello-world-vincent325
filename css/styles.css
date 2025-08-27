@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+    
+
+    h1 {
+        color: purple;
+    }
+
+    .bad {
+        color: rgb(245, 6, 6);
+    }
+
+    .good {
+        color: rgb(9, 218, 9);
+    }
+
+    a {
+        color: white;
+    };
+}
